@@ -108,6 +108,4 @@ Always interested in learning, building things and exploring new areas of techno
 
 `// stay alive |- /`
 
-🎧 **Twenty One Pilots**
-
 </div>
