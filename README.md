@@ -1,16 +1,24 @@
-## Hi there 👋
+# 👋 Hey, I'm Rodrigo
 
-<!--
-**rorowii/rorowii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+```bash
+rodrigo@github:~$ whoami
+```
 
-Here are some ideas to get you started:
+```text
+> Information Technology Student
+> Software Developer
+> Linux Enthusiast
+```
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm an Information Technology student who enjoys exploring different areas of tech, from building software to understanding how systems work under the hood.
+
+```bash
+rodrigo@github:~$ cat interests.txt
+```
+
+```text
+💻  Software Development
+📊  Data Engineering
+🔐  Cybersecurity
+🐧  Linux & Infrastructure
+```
