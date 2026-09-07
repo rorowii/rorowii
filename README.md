@@ -4,7 +4,7 @@
 
 > *Turning data into insights, ideas into software, and bugs into lessons.*
 
-```text
+```text id="r8mnyy"
                      ♪
               NOW PLAYING
 
@@ -24,7 +24,7 @@ My main interests revolve around **Data, Software Development and Software Testi
 
 ## ♫ 01 — About Me
 
-```text
+```text id="dt5zz6"
 MY PLAYLIST
 ──────────────────────────────────────────
 01  Data & Databases              ▶
@@ -71,7 +71,7 @@ And **Testing** gives me the opportunity to analyze those applications from anot
 
 ## ♫ 03 — Currently Playing
 
-```text
+```text id="vfh2wv"
 ♪ Improving my SQL and database skills
 ♪ Exploring Data Engineering with Python
 ♪ Building applications with Java and Spring Boot
@@ -83,7 +83,7 @@ And **Testing** gives me the opportunity to analyze those applications from anot
 
 ## ♫ 04 — Featured Tracks
 
-```text
+```text id="g2ic7a"
 PROJECT                                    AREA
 ────────────────────────────────────────────────────
 01  Coming soon...                        Data
@@ -101,3 +101,13 @@ PROJECT                                    AREA
 Always interested in learning, building things and exploring new areas of technology.
 
 `LinkedIn` · `Email`
+
+---
+
+<div align="center">
+
+`// stay alive |- /`
+
+🎧 **Twenty One Pilots**
+
+</div>
