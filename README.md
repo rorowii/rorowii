@@ -1,6 +1,8 @@
 # 🎧 Hey, I'm Rodrigo
 
-### Information Technology Student · Data · Development · Testing
+### Data · Development · Testing
+
+🎓 Currently pursuing a **Licenciatura en Tecnologías de la Información (LTI)** at **UTEC — Universidad Tecnológica del Uruguay**.
 
 > *Turning data into insights, ideas into software, and bugs into lessons.*
 
@@ -8,7 +10,7 @@
                      ♪
               NOW PLAYING
 
-          Rodrigo Antúnez — IT
+          Rodrigo Antúnez — LTI
 
      ━━━━━━━━━━━━━●──────────
        Data • Development • Testing
@@ -16,13 +18,17 @@
               ↻   ◁  ❚❚  ▷   ♡
 ```
 
-I'm an **Information Technology student** interested in the different stages involved in building reliable software — from working with **data and databases**, to developing applications and testing their quality.
+I'm interested in the different stages involved in building reliable software — from working with **data and databases**, to developing applications and testing their quality.
 
 My main interests revolve around **Data, Software Development and Software Testing**, with a particular focus on technologies such as **SQL, Java and Python**.
 
 ---
 
 ## ♫ 01 — About Me
+
+I'm currently studying **Licenciatura en Tecnologías de la Información (LTI)** at **UTEC — Universidad Tecnológica del Uruguay**.
+
+I enjoy working across different areas of IT and understanding how they connect.
 
 ```text
 MY PLAYLIST
@@ -33,8 +39,6 @@ MY PLAYLIST
 04  Web Development               ▶
 ──────────────────────────────────────────
 ```
-
-I enjoy working across different areas of IT and understanding how they connect.
 
 **Data** interests me because of the process behind transforming raw information into something useful.
 
