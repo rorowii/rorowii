@@ -2,7 +2,7 @@
 
 ### Data · Development · Testing
 
-🎓 Currently pursuing a **Licenciatura en Tecnologías de la Información (LTI)** at **UTEC — Universidad Tecnológica del Uruguay**.
+🎓 Currently pursuing a **Licenciatura en Tecnologías de la Información (LTI)** at **UTEC - Universidad Tecnológica del Uruguay**.
 
 > *Turning data into insights, ideas into software, and bugs into lessons.*
 
