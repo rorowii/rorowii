@@ -18,15 +18,15 @@
               ↻   ◁  ❚❚  ▷   ♡
 ```
 
-I'm interested in the different stages involved in building reliable software — from working with **data and databases**, to developing applications and testing their quality.
+I'm interested in the different stages involved in building reliable software - from working with **data and databases**, to developing applications and testing their quality.
 
 My main interests revolve around **Data, Software Development and Software Testing**, with a particular focus on technologies such as **SQL, Java and Python**.
 
 ---
 
-## ♫ 01 — About Me
+## ♫ 01 - About Me
 
-I'm currently studying **Licenciatura en Tecnologías de la Información (LTI)** at **UTEC — Universidad Tecnológica del Uruguay**.
+I'm currently studying **Licenciatura en Tecnologías de la Información (LTI)** at **UTEC - Universidad Tecnológica del Uruguay**.
 
 I enjoy working across different areas of IT and understanding how they connect.
 
@@ -48,7 +48,7 @@ MY PLAYLIST
 
 ---
 
-## ♫ 02 — Tech Stack
+## ♫ 02 - Tech Stack
 
 ### 💿 Data
 
@@ -86,7 +86,7 @@ MY PLAYLIST
 
 ---
 
-## ♫ 03 — Currently Playing
+## ♫ 03 - Currently Playing
 
 ```text
 ♪ Improving my SQL and database skills
@@ -98,7 +98,7 @@ MY PLAYLIST
 
 ---
 
-## ♫ 04 — Featured Tracks
+## ♫ 04 - Featured Tracks
 
 ```text
 PROJECT                                    AREA
@@ -113,7 +113,7 @@ PROJECT                                    AREA
 
 ---
 
-## ♫ 05 — Certifications
+## ♫ 05 - Certifications
 
 ```text
 TRACK                                      SOURCE
@@ -128,7 +128,7 @@ TRACK                                      SOURCE
 
 ---
 
-## ♫ 06 — Let's Connect
+## ♫ 06 - Let's Connect
 
 Always interested in learning, building things and exploring new areas of technology.
 
